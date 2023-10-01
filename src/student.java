@@ -13,5 +13,7 @@ public class student {
         
         System.out.println("Iam a student of CCT college");
     
+        
+        
 }
 }
